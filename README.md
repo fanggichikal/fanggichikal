@@ -4,6 +4,7 @@ my name is Fanggi Chikal Furqonie
 ## 🌱 I’m currently learning
 - Front End
 - Back End
+- Data Analis
 
 ## I'm a freelancer
 - Design Logo, Flyer And Brochure
