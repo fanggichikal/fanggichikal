@@ -1,14 +1,18 @@
-# Hi there 👋
+# Hi there 
 my name is Fanggi Chikal Furqonie
 
-## 🌱 I’m currently learning
+## I’m currently learning
 - Front End
 - Back End
 - Data Analis
 
 ## I'm a freelancer
-- Design Logo, Flyer And Brochure
+- Design Logo, Flyer, Brochure, Created Web Company Profile, Web Devlopment
 
+## Tools Worked
+- Adobe Photoshop, Adobe Ilustrator, Figma and Canva For Design
+- Php, Html, Css, react use A framework Laravel and Tailwind For Created A Website
+- And Pyhton for Data Analis
 
 ## 🎓 Education
 - Harapan Medan University, 2017-2022
